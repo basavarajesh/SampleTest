@@ -87,7 +87,6 @@ public class MainMenuActivity extends AppCompatActivity {
                     if (con == null)
                     {
                         z = "Check Your Internet Access!";
-
                     }
                     else
                     {
